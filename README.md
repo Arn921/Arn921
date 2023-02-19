@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arnold Henry.
-- 👀 I’m interested in python and data engineering.
+- 👀 I’m interested in python and data engeeniering
 - 🌱 I’m currently learning python and javascript.
-- 💞️ I’m looking to collaborate on data projects.
 ###- 📫 How to reach me ...
 
 <!---
